@@ -39,7 +39,8 @@ import java.util.List;
 public class DeptController_Consumer {
 
 
-    public static final String REST_URL_PREFIX = "http://localhost:8001";
+    // public static final String REST_URL_PREFIX = "http://localhost:8001";  MICROSERVICECLOUD_DEPT
+    public static final String REST_URL_PREFIX = "http://MICROSERVICECLOUD-DEPT";
 
     /**
      * 使用restTemplate访问restful接口非常的简单粗暴无脑。

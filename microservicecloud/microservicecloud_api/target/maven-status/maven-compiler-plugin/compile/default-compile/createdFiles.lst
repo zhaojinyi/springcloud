@@ -1,2 +1,5 @@
 com\zjy\Entity\Dept.class
+com\zjy\service\DeptClientServiceFallbackFactory.class
 com\zjy\App.class
+com\zjy\service\DeptClientServiceFallbackFactory$1.class
+com\zjy\service\DeptClientService.class

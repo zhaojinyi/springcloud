@@ -13,6 +13,7 @@
         <module>microservicecloud_provider_dept</module>
         <module>microservicecloud_consumer_dept</module>
         <module>microservicecloud_eureka_7001</module>
+        <module>microservicecloudzuulgateway9527</module>
     </modules>
 
     <name>microservicecloud</name>
